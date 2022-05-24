@@ -1,0 +1,16 @@
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\bin\Debug\PRG282_Project.exe.config
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\bin\Debug\PRG282_Project.exe
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\bin\Debug\PRG282_Project.pdb
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.csprojAssemblyReference.cache
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.frmLogin.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.frmMain.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Presentation_Layer.ucCreateMod.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Presentation_Layer.ucUpdateMod.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.Properties.Resources.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.ucCreate.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.ucDatabase.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.ucUpdateStdnt.resources
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.csproj.GenerateResource.cache
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.csproj.CoreCompileInputs.cache
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.exe
+D:\hdeff\OneDrive\Desktop\uni docs\2nd YEAR\WPR281\MilestonePRG282-class-Master\PRG282_Project\PRG282_Project\obj\Debug\PRG282_Project.pdb
